@@ -29,7 +29,7 @@ input{
     color: black;
     font-weight: 600;
     text-align: right;
-    font-size: 60px;
+    font-size: 30px;
     padding-right: 30px;
     cursor: text;
     background-color: white;
@@ -39,7 +39,7 @@ button{
     width: 17%;
     height: 73px;
     color: white;
-    font-size: 40px;
+    font-size: 20px;
     border: none;
     outline: none;
     border-radius: 50%;
@@ -47,7 +47,7 @@ button{
     cursor: pointer;
     background-color:#E8F9FF;
     color: black;
-    font-weight: 600;
+    font-weight: 500;
     transition: ease-in-out .2s;
 }
 button:hover{
