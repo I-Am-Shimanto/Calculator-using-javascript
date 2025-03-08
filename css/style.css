@@ -4,8 +4,12 @@
 }
 body{
     display: flex;
-    justify-content: center;
-    margin-top: 8%;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2%;
+}
+h1{
+    font-size: 100px;
 }
 .calculator{
     width: 800px;
